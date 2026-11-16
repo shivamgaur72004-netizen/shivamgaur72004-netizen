@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/website.svg" width="220px" alt="Personal website navigation" />
   </a>
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/blogs.svg" width="220px" alt="Portfolio navigation" />
   </a>
   <a href="./COLLAB.md">
@@ -36,12 +36,12 @@
 </p>
 
 <p align="center">
-  This page maps the technical domains behind my projects and labs: machine learning infrastructure, reinforcement learning, robotics, distributed systems, model operations, and interactive education.
+  This page maps the technical domains behind my projects and labs: machine learning systems, time-series forecasting, agentic AI workflows, full-stack pipelines, and interactive developer utilities.
 </p>
 
 <p align="center">
-    <a href="https://dreamy-elf-82a6a8.netlify.app/">
-        <img src="../assets/svg/pages/mlp_space.svg" alt="Security and AI domain visualization" />
+    <a href="https://shivamgaur.me">
+        <img src="../assets/svg/pages/mlp_space.svg" alt="Systems and AI domain visualization" />
     </a>
 </p>
 
@@ -59,9 +59,10 @@
 
 | Environment | Purpose |
 | --- | --- |
-| [Yashi AI](https://github.com/vishnukumar001/Yashi) | Desktop AI companion with voice interaction and task automation. |
-| [CertiChain](https://github.com/vishnukumar001/CertiChain) | Tamper-proof digital credentials powered by Blockchain &amp; IPFS. |
-| [Security Labs](https://github.com/vishnukumar001/Linux-Journey) | System administration, Linux security, and bug bounty methodologies. |
+| [CommodityChain](https://github.com/shivamgaur72004-netizen/commoditychain) | Real-time commodity intelligence platform with live streaming, macro simulator & Groq LLaMA 3.3. |
+| [FitoGlobe](https://github.com/shivamgaur72004-netizen/fitoglobe) | Full-stack fitness and nutrition tracking with Groq Vision food scanning. |
+| [PDFKholo](https://github.com/shivamgaur72004-netizen/pdfkholo) | Client-side WebAssembly PDF & image manipulation suite. |
+| [Dollar-Hegemony](https://github.com/shivamgaur72004-netizen/dollar-hegemony) | ML-driven USD dominance forecasting using XGBoost + LSTM ensembles. |
 
 ## Engineering Principles
 

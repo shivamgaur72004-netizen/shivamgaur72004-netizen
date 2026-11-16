@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/website.svg" width="220px" alt="Personal website navigation" />
   </a>
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/blogs.svg" width="220px" alt="Portfolio navigation" />
   </a>
   <a href="./COLLAB.md">
@@ -32,16 +32,16 @@
 ---
 
 <p align="center">
-  <img width="82%" src="../assets/svg/system/launch_console.svg" alt="Launch console showing Vishnu System online, active labs, and collaboration status" />
+  <img width="82%" src="../assets/svg/system/launch_console.svg" alt="Launch console showing Shivam System online, active labs, and collaboration status" />
 </p>
 
 
 <p align="center">
-  <b>Collaboration is most interesting to me when the work has a real purpose behind it: clear security implications, hands-on methodology, and enough curiosity to dig deeper.</b>
+  <b>Collaboration is most interesting to me when the work has a real purpose behind it: solid systems architecture, intelligent pipelines, and enough curiosity to dig deeper.</b>
 </p>
 
 <p align="center">
-  I am especially interested in Web Application Security, Bug Bounty Hunting, Python Scripting &amp; Automation, Linux Security, Network Analysis, and AI co-pilots.
+  I am especially interested in Full-Stack Web Architecture, Applied Machine Learning, Agentic AI Systems, Client-side Wasm utilities, and Developer tooling.
 </p>
 
 <p align="center">
@@ -76,9 +76,9 @@ Systems that make research workflows less fragile: PaperOps, reproducibility, be
 
 Multi-agent coordination, simulation environments, decision systems, evaluation loops, and agent behavior. I am more interested in measurable behavior than abstract agent hype.
 
-### Robotics & Autonomous Systems
+### Full-Stack SaaS & Scalable APIs
 
-Perception, planning, control loops, embodied AI, and systems that need to operate under real constraints. Good robotics work forces clarity because the world does not accept vague abstractions.
+Next.js, FastAPI, Node.js/Express, WebSockets, real-time streaming, database design, and end-to-end type safety. Good systems work prioritizes performance, security, and developer ergonomics.
 
 ### Interactive Technical Labs
 
@@ -105,7 +105,7 @@ What exists now:
 <repo, demo, paper, sketch, notes, or current status>
 
 Where I think you might fit:
-<architecture, ML infra, MLOps, RL, documentation, visual systems, review, etc.>
+<architecture, ML infra, MLOps, full-stack, documentation, visual systems, review, etc.>
 
 First useful milestone:
 <something small enough to actually start>
@@ -127,12 +127,12 @@ If the first milestone is clear, the conversation can become technical quickly. 
 
 ## Contact Vector
 
-If the work connects to Cybersecurity, Bug Bounty, Python automation, Linux tooling, or collaborative security research, send the idea through one of the channels listed in the main [README](../../README.md#-contact).
+If the work connects to Full-Stack Engineering, Machine Learning, AI systems, Python automation, or open-source tooling, send the idea through one of the channels listed in the main [README](../../README.md#-contact).
 
 Useful links:
 
 - [Projects](./PROJECTS.md)
-- [AI & Security Domains](./AI_DOMAIN.md)
+- [AI & Domain Systems](./AI_DOMAIN.md)
 - [Labs](./LABS.md)
-- [Portfolio Website](https://dreamy-elf-82a6a8.netlify.app/)
+- [Portfolio Website](https://shivamgaur.me)
 - [GitHub Profile](../../README.md)

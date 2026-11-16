@@ -4,7 +4,7 @@ This page keeps the public launch and promotion copy close to the profile system
 
 ## Short GitHub Profile Pitch
 
-Vishnu Kumar is an Aspiring Cybersecurity Professional and Bug Bounty Hunter focused on Web Application Security, Python Scripting, Network Security, and Developer Tooling.
+Shivam Gaur is a Full-Stack and AI/ML Developer focused on Full-Stack Systems, Real-Time Analytics, Machine Learning Pipelines, and Developer Tooling.
 
 This profile repository acts as a navigation system for the work: website, projects, focus domains, collaboration path, maintenance docs, and visual README components.
 
@@ -14,19 +14,19 @@ I rebuilt my GitHub profile as a small technical system rather than a static pro
 
 It now connects my portfolio website, project highlights, focus domain notes, collaboration guide, and hands-on projects:
 
-- Yashi: desktop AI companion &amp; cybersecurity co-pilot.
-- CertiChain: tamper-proof digital credentials powered by Blockchain &amp; IPFS.
-- Linux Journey: system administration &amp; hands-on cybersecurity workflows.
+- CommodityChain: real-time commodity intelligence platform with live streaming & AI insights.
+- FitoGlobe: AI fitness & nutrition tracking with Groq Vision food scanner.
+- PDFKholo: high-performance client-side WebAssembly PDF & image manipulation toolkit.
 
 I also added a style guide, asset index, roadmap, security policy, contributing guide, and automated link checks so the profile is easier to maintain as it grows.
 
-Start here: https://github.com/vishnukumar001/vishnukumar001
+Start here: https://github.com/shivamgaur72004-netizen/shivamgaur72004-netizen
 
 ## Pinned GitHub Discussion Or Issue
 
 Title: Profile System Overview
 
-This repository is the main GitHub profile system for Vishnu Kumar. It is designed to make the work easier to inspect quickly:
+This repository is the main GitHub profile system for Shivam Gaur. It is designed to make the work easier to inspect quickly:
 
 - README: high-level profile and primary navigation.
 - Website: portfolio and live project surface.

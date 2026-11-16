@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/website.svg" width="220px" alt="Personal website navigation" />
   </a>
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/blogs.svg" width="220px" alt="Portfolio navigation" />
   </a>
   <a href="./COLLAB.md">
@@ -29,32 +29,32 @@
 ---
 
 <p align="center">
-  <b>Selected work across cybersecurity, AI co-pilots, blockchain verification, and developer tooling.</b>
+  <b>Selected work across full-stack engineering, machine learning, data intelligence, and developer tooling.</b>
 </p>
 
 <p align="center">
-  This page highlights projects that match the main direction of my GitHub profile: building practical systems, intelligent desktop co-pilots, secure verifiable credentials, and hands-on Linux &amp; networking workflows.
+  This page highlights projects that match the main direction of my GitHub profile: building intelligent systems, real-time analytics platforms, machine learning forecasting pipelines, and client-side web tools.
 </p>
 
 <h2 align="center">🧪 Project Highlights</h2>
 
 <!-- Row 1 -->
 <p align="center">
-  <a href="https://github.com/vishnukumar001/Yashi">
-    <img src="../assets/svg/projects/future_iran_ai.svg" width="45%" alt="Yashi AI Desktop Assistant and Security Co-Pilot project card" />
+  <a href="https://github.com/shivamgaur72004-netizen/commoditychain">
+    <img src="../assets/svg/projects/future_iran_ai.svg" width="45%" alt="CommodityChain Market Intelligence project card" />
   </a>
-  <a href="https://github.com/vishnukumar001/CertiChain">
-    <img src="../assets/svg/projects/paper_ops.svg" width="45%" alt="CertiChain Blockchain Credentials project card" />
+  <a href="https://github.com/shivamgaur72004-netizen/fitoglobe">
+    <img src="../assets/svg/projects/paper_ops.svg" width="45%" alt="FitoGlobe AI Fitness Platform project card" />
   </a>
 </p>
 
 <!-- Row 2 -->
 <p align="center">
-  <a href="https://github.com/vishnukumar001/Linux-Journey">
-    <img src="../assets/svg/projects/thirty_one.svg" width="45%" alt="Linux Journey project card" />
+  <a href="https://github.com/shivamgaur72004-netizen/pdfkholo">
+    <img src="../assets/svg/projects/thirty_one.svg" width="45%" alt="PDFKholo WebAssembly PDF Suite project card" />
   </a>
-  <a href="https://github.com/vishnukumar001/git-learning-journey">
-    <img src="../assets/svg/projects/marl.svg" width="45%" alt="Git Learning Journey project card" />
+  <a href="https://github.com/shivamgaur72004-netizen/dollar-hegemony">
+    <img src="../assets/svg/projects/marl.svg" width="45%" alt="Dollar Hegemony ML Forecasting project card" />
   </a>
 </p>
 
@@ -62,10 +62,10 @@
 
 | Project | Focus | Status | Why it matters |
 | --- | --- | --- | --- |
-| [Yashi](https://github.com/vishnukumar001/Yashi) | AI Co-Pilot, Desktop Automation, Gemini Live | Active | Combines conversational voice AI, desktop task automation, and a virtual avatar co-pilot. |
-| [CertiChain](https://github.com/vishnukumar001/CertiChain) | Blockchain, IPFS, Soulbound NFTs | Active | Turns academic certificates into secure, verifiable digital credentials with tamper-proof verification. |
-| [Linux-Journey](https://github.com/vishnukumar001/Linux-Journey) | Linux Administration, Security Tooling | Active | Hands-on documentation, commands, and security workflows to build practical system administration skills. |
-| [git-learning-journey](https://github.com/vishnukumar001/git-learning-journey) | Git, GitHub, Version Control | Active | Practical repository documenting Git workflows, branching strategies, and collaboration practices. |
+| [CommodityChain](https://github.com/shivamgaur72004-netizen/commoditychain) | Real-Time Intelligence, WebSockets, Groq LLaMA 3.3 | Active | Real-time commodity intelligence platform with live price streaming, macro simulators, and AI correlation analytics. |
+| [FitoGlobe](https://github.com/shivamgaur72004-netizen/fitoglobe) | AI Fitness, Groq Vision, React, Node.js | Active | Full-stack fitness and nutrition tracker with Groq Vision food scanning, macro calculations, and multilingual interface. |
+| [PDFKholo](https://github.com/shivamgaur72004-netizen/pdfkholo) | WebAssembly, Next.js, qpdf-wasm, Client-Side | Active | High-performance, privacy-focused PDF & image manipulation toolkit running entirely in the client browser. |
+| [Dollar-Hegemony](https://github.com/shivamgaur72004-netizen/dollar-hegemony) | Machine Learning, Time-Series Forecasting, MLOps | Active | ML-driven study forecasting USD dominance using XGBoost + stacked LSTM + Temporal Transformer ensembles. |
 
 ## Current Direction
 
@@ -85,10 +85,10 @@
 <h2 align="center">📊 Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=radical" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgaur72004-netizen&theme=radical" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnukumar001&theme=radical" width="48%" alt="GitHub summary statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnukumar001&theme=radical&utcOffset=5.5" width="48%" alt="GitHub productive time summary" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamgaur72004-netizen&theme=radical" width="48%" alt="GitHub summary statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamgaur72004-netizen&theme=radical&utcOffset=5.5" width="48%" alt="GitHub productive time summary" />  
 </p>

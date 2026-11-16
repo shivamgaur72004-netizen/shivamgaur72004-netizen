@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/website.svg" width="220px" alt="Personal website navigation" />
   </a>
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
+  <a href="https://shivamgaur.me">
     <img src="../assets/svg/navigation/blogs.svg" width="220px" alt="Portfolio navigation" />
   </a>
   <a href="./COLLAB.md">
@@ -33,9 +33,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishnukumar001/Yashi"><b>Yashi AI</b></a> ·
-  <a href="https://github.com/vishnukumar001/CertiChain"><b>CertiChain</b></a> ·
-  <a href="https://github.com/vishnukumar001/Linux-Journey"><b>Security Labs</b></a>
+  <a href="https://github.com/shivamgaur72004-netizen/commoditychain"><b>CommodityChain</b></a> ·
+  <a href="https://github.com/shivamgaur72004-netizen/fitoglobe"><b>FitoGlobe</b></a> ·
+  <a href="https://github.com/shivamgaur72004-netizen/pdfkholo"><b>PDFKholo</b></a>
 </p>
 
 ## Launch Hub
@@ -44,9 +44,9 @@ The project environments are the hands-on side of this profile: technical implem
 
 | Environment | Status | Value |
 | --- | --- | --- |
-| [Yashi AI](https://github.com/vishnukumar001/Yashi) | Active / evolving | Explore conversational AI and desktop automation with real-time feedback. |
-| [CertiChain](https://github.com/vishnukumar001/CertiChain) | Active | Issue and verify digital credentials on Blockchain and IPFS without intermediaries. |
-| [Security Labs](https://github.com/vishnukumar001/Linux-Journey) | Active / evolving | Practical Linux system administration, network analysis, and security exercises. |
+| [CommodityChain](https://github.com/shivamgaur72004-netizen/commoditychain) | Active | Real-time commodity intelligence platform with live price streaming & AI correlation analytics. |
+| [FitoGlobe](https://github.com/shivamgaur72004-netizen/fitoglobe) | Active | Full-stack fitness & nutrition tracking with Groq Vision food scanning and multilingual UI. |
+| [PDFKholo](https://github.com/shivamgaur72004-netizen/pdfkholo) | Active | Client-side WebAssembly PDF & image manipulation suite running locally in the browser. |
 
 ## Lab Mission
 
@@ -58,12 +58,12 @@ The project environments are the hands-on side of this profile: technical implem
 
 | Project | It should help visitors understand |
 | --- | --- |
-| Yashi AI | How multi-modal AI and desktop control integrate into a unified assistant. |
-| CertiChain | How blockchain immutability solves credential fraud and trust verification. |
-| Security Labs | How real system mechanics work under the hood for security defense and bug hunting. |
+| CommodityChain | How streaming data pipelines, WebSockets, and LLM reasoning combine to form actionable financial intelligence. |
+| FitoGlobe | How AI computer vision, fast multi-language localization, and mobile-first full-stack architectures deliver practical utility. |
+| PDFKholo | How modern WebAssembly and client-side tooling can replace heavy server-side processing with private, zero-latency workflows. |
 
 ## Related Pages
 
 - [AI Domains](./AI_DOMAIN.md)
 - [Projects](./PROJECTS.md)
-- [Portfolio Website](https://dreamy-elf-82a6a8.netlify.app/)
+- [Portfolio Website](https://shivamgaur.me)

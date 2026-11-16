@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vishnu%20Kumar&fontSize=70&animation=twinkling" alt="Vishnu Kumar profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shivam%20Gaur&fontSize=70&animation=twinkling" alt="Shivam Gaur profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/vishnu-kumar-218245380/">Vishnu Kumar</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/shivam-gaur-5b6a06384/">Shivam Gaur</a></b>
     </samp>
 </h3>
 
@@ -14,15 +14,15 @@
 
 <p align="center">
 <samp>
-「 Breaking things to understand how to protect them • Aspiring Cybersecurity Professional &amp; Bug Bounty Hunter 」
+「 Building intelligent systems at the intersection of full-stack engineering &amp; ML • Full-Stack &amp; AI/ML Developer 」
 </samp>
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-live-22c55e?style=flat-square&logo=netlify" alt="Portfolio live site" />
+  <a href="https://shivamgaur.me">
+    <img src="https://img.shields.io/badge/Portfolio-live-22c55e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio live site" />
   </a>
-  <a href="https://github.com/vishnukumar001/vishnukumar001">
+  <a href="https://github.com/shivamgaur72004-netizen/shivamgaur72004-netizen">
     <img src="https://img.shields.io/badge/profile%20repo-system%20README-a78bfa?style=flat-square&logo=github" alt="Profile repository badge" />
   </a>
   <a href="./docs/pages/COLLAB.md">
@@ -36,14 +36,14 @@
 </p>
 
 <p align="center">
-  <a href="https://dreamy-elf-82a6a8.netlify.app/"><b>Website</b></a>
+  <a href="https://shivamgaur.me"><b>Website</b></a>
   &nbsp;|&nbsp;
   <a href="./docs/pages/PROJECTS.md"><b>Projects</b></a>
   &nbsp;|&nbsp;
   <a href="./docs/pages/COLLAB.md"><b>Collaboration</b></a>
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/vishnukumar001)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/shivamgaur72004-netizen)
 
 <!-- Title -->
 <p align="center">
@@ -52,22 +52,22 @@
 
 <p align="center">
 
-<a href="https://dreamy-elf-82a6a8.netlify.app/">
-  <img width="82%" src="./docs/assets/svg/system/portal_main.svg" alt="Vishnu System portal" />
+<a href="https://shivamgaur.me">
+  <img width="82%" src="./docs/assets/svg/system/portal_main.svg" alt="Shivam System portal" />
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/vishnukumar001/Yashi">
-  <img width="32%" src="./docs/assets/svg/system/neural_lab.svg" alt="Yashi AI Desktop Assistant" />
+<a href="https://github.com/shivamgaur72004-netizen/commoditychain">
+  <img width="32%" src="./docs/assets/svg/system/neural_lab.svg" alt="CommodityChain Market Intelligence" />
 </a>
-<a href="https://github.com/vishnukumar001/CertiChain">
-  <img width="32%" src="./docs/assets/svg/system/molecule_lab.svg" alt="CertiChain Blockchain Credentials" />
+<a href="https://github.com/shivamgaur72004-netizen/fitoglobe">
+  <img width="32%" src="./docs/assets/svg/system/molecule_lab.svg" alt="FitoGlobe AI Fitness Platform" />
 </a>
-<a href="https://github.com/vishnukumar001/Linux-Journey">
-  <img width="32%" src="./docs/assets/svg/system/model_forge.svg" alt="Linux &amp; Security Journey" />
+<a href="https://github.com/shivamgaur72004-netizen/pdfkholo">
+  <img width="32%" src="./docs/assets/svg/system/model_forge.svg" alt="PDFKholo WebAssembly PDF Suite" />
 </a>
 
 </p>
@@ -79,14 +79,14 @@
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/vishnukumar001)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/shivamgaur72004-netizen)
 
 <p align="center">
   <img src="./docs/assets/svg/pages/hirad_core.svg" width="100%" alt="System core panel" />
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/vishnukumar001)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/shivamgaur72004-netizen)
 
 
 # 🛠 Technologies, Projects, and Domains
@@ -103,37 +103,30 @@
 <table align="center" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32" alt="Bash"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" alt="Linux"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" alt="Next.js"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" alt="GitHub"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="TailwindCSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" alt="Linux"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32" alt="Postman"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="32" alt="Vim"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" alt="Figma"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" alt="C"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="32" alt="Networking"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32" alt="Nginx"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="32" alt="Electron"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="32" alt="Markdown"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="32" alt="Ubuntu"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="Cloud"/></td>
   </tr>
 </table>
@@ -171,30 +164,30 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/vishnukumar001)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/shivamgaur72004-netizen)
 
 ### 📊 Vital Statistics
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukumar001&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgaur72004-netizen&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnukumar001&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamgaur72004-netizen&theme=radical" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnukumar001&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=shivamgaur72004-netizen&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/vishnukumar001?label=Total%20Stars&style=flat-square&color=36BCF7&labelColor=000000" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/shivamgaur72004-netizen?label=Total%20Stars&style=flat-square&color=36BCF7&labelColor=000000" alt="Total Stars" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/vishnukumar001?label=Followers&style=flat-square&color=36BCF7&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/shivamgaur72004-netizen?label=Followers&style=flat-square&color=36BCF7&labelColor=000000" alt="Followers" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/vishnukumar001)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/shivamgaur72004-netizen)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -207,10 +200,10 @@
 I’m open to collaborating on:
 
 <ul>
-  <li>Web application security &amp; penetration testing</li>
-  <li>Bug bounty hunting methodology &amp; recon</li>
-  <li>Python automation &amp; security tooling</li>
-  <li>AI desktop assistants &amp; developer co-pilots</li>
+  <li>Full-stack web applications &amp; scalable APIs (Next.js, FastAPI, Node.js)</li>
+  <li>Applied Machine Learning &amp; predictive forecasting (XGBoost, LSTM, MLOps)</li>
+  <li>Agentic AI systems &amp; LLM integrations (Groq, RAG, LangChain)</li>
+  <li>Open-source developer utilities &amp; client-side Wasm tools</li>
 </ul>
 
 </td>
@@ -229,23 +222,23 @@ I’m open to collaborating on:
 
 <br>
 
-<a href="https://dreamy-elf-82a6a8.netlify.app/">
-  <img src="https://img.shields.io/badge/Personal%20Website-dreamy--elf-36BCF7?style=for-the-badge&logo=netlify" alt="Personal website link">
+<a href="https://shivamgaur.me">
+  <img src="https://img.shields.io/badge/Personal%20Website-shivamgaur.me-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website link">
 </a>
 <br><br>
 
-<a href="mailto:vrthakur17@gmail.com">
-  <img src="https://img.shields.io/badge/email-vrthakur17%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+<a href="mailto:shivamgaur72004@gmail.com">
+  <img src="https://img.shields.io/badge/email-shivamgaur72004%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
 <br><br>
 
-<a href="https://www.linkedin.com/in/vishnu-kumar-218245380/">
-  <img src="https://img.shields.io/badge/linkedin-vishnu--kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+<a href="https://www.linkedin.com/in/shivam-gaur-5b6a06384/">
+  <img src="https://img.shields.io/badge/linkedin-shivam--gaur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
 <br><br>
 
-<a href="https://x.com/rudra_cyb">
-  <img src="https://img.shields.io/badge/X-rudra__cyb-000000?style=for-the-badge&logo=x" alt="X profile link">
+<a href="https://x.com/shivamgaur">
+  <img src="https://img.shields.io/badge/X-shivamgaur-000000?style=for-the-badge&logo=x" alt="X profile link">
 </a>
 
 </td>
@@ -253,10 +246,10 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/vishnukumar001)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/shivamgaur72004-netizen)
 
 <p align="center">
-⚡ Breaking things to understand how to protect them. 🔐
+⚡ Where tradition meets technology. Building intelligent systems with code. 🚀
 </p>
 <p align="center">
 Star ⭐ the repos if they helped you!

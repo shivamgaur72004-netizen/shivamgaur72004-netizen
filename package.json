@@ -1,8 +1,8 @@
 {
-  "name": "vishnukumar001-profile",
+  "name": "shivamgaur72004-netizen-profile",
   "private": true,
   "version": "1.0.0",
-  "description": "Quality checks for the vishnukumar001 GitHub profile repository.",
+  "description": "Quality checks for the shivamgaur72004-netizen GitHub profile repository.",
   "scripts": {
     "check:alt": "node scripts/check-image-alt-text.mjs",
     "check:local": "node scripts/check-local-links.mjs",
