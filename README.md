@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shivam%20Gaur&fontSize=70&animation=twinkling" alt="Shivam Gaur profile header" />
-</p>
-
 <!-- Title -->
-<h3 align="center">
+<h1 align="center">
     <samp>
         &gt; Hey There!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/shivam-gaur-5b6a06384/">Shivam Gaur</a></b>
     </samp>
-</h3>
+</h1>
 
 <br>
 
@@ -274,9 +270,4 @@ Star ⭐ the repos if they helped you!
     <a href="docs/easter-eggs/easter_egg.md">
         <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
     </a>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
