@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shivam%20Gaur&fontSize=70" alt="Shivam Gaur profile header" />
+</p>
+
 <!-- Title -->
-<h1 align="center">
+<h3 align="center">
     <samp>
         &gt; Hey There!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/shivam-gaur-5b6a06384/">Shivam Gaur</a></b>
     </samp>
-</h1>
+</h3>
 
 <br>
 
